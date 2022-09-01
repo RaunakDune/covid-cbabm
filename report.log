@@ -1,0 +1,40 @@
+2022-04-02 02:03:45,999 - fiona.ogrext - WARNING - Skipping field bbox: invalid type 3
+2022-04-02 02:03:49,990 - tornado.access - INFO - 200 GET / (127.0.0.1) 3.69ms
+2022-04-02 02:03:50,031 - tornado.access - INFO - 101 GET /ws (127.0.0.1) 0.47ms
+2022-04-02 02:03:50,261 - fiona.ogrext - WARNING - Skipping field bbox: invalid type 3
+2022-04-02 10:06:32,652 - fiona.ogrext - WARNING - Skipping field bbox: invalid type 3
+2022-04-02 10:06:36,591 - tornado.access - INFO - 200 GET / (127.0.0.1) 4.30ms
+2022-04-02 10:06:36,611 - tornado.access - INFO - 304 GET /static/css/bootstrap-theme.min.css (127.0.0.1) 5.41ms
+2022-04-02 10:06:36,613 - tornado.access - INFO - 304 GET /static/css/bootstrap.min.css (127.0.0.1) 1.80ms
+2022-04-02 10:06:36,618 - tornado.access - INFO - 304 GET /static/css/bootstrap-slider.min.css (127.0.0.1) 6.37ms
+2022-04-02 10:06:36,620 - tornado.access - INFO - 304 GET /static/css/bootstrap-switch.min.css (127.0.0.1) 7.67ms
+2022-04-02 10:06:36,621 - tornado.access - INFO - 304 GET /static/css/leaflet.css (127.0.0.1) 9.32ms
+2022-04-02 10:06:36,626 - tornado.access - INFO - 304 GET /static/css/visualization.css (127.0.0.1) 13.82ms
+2022-04-02 10:06:36,628 - tornado.access - INFO - 304 GET /static/js/bootstrap-switch.min.js (127.0.0.1) 1.08ms
+2022-04-02 10:06:36,630 - tornado.access - INFO - 304 GET /static/js/bootstrap.min.js (127.0.0.1) 1.53ms
+2022-04-02 10:06:36,631 - tornado.access - INFO - 304 GET /static/js/bootstrap-slider.min.js (127.0.0.1) 2.02ms
+2022-04-02 10:06:36,632 - tornado.access - INFO - 304 GET /static/js/TextModule.js (127.0.0.1) 2.42ms
+2022-04-02 10:06:36,632 - tornado.access - INFO - 304 GET /static/js/LeafletMap.js (127.0.0.1) 2.59ms
+2022-04-02 10:06:36,633 - tornado.access - INFO - 304 GET /static/js/jquery.min.js (127.0.0.1) 3.13ms
+2022-04-02 10:06:36,634 - tornado.access - INFO - 304 GET /static/js/leaflet.js (127.0.0.1) 1.24ms
+2022-04-02 10:06:36,635 - tornado.access - INFO - 304 GET /static/js/ChartModule.js (127.0.0.1) 0.76ms
+2022-04-02 10:06:36,636 - tornado.access - INFO - 304 GET /static/js/runcontrol.js (127.0.0.1) 1.10ms
+2022-04-02 10:06:36,637 - tornado.access - INFO - 304 GET /static/js/Chart.min.js (127.0.0.1) 1.92ms
+2022-04-02 10:06:36,661 - tornado.access - INFO - 101 GET /ws (127.0.0.1) 0.43ms
+2022-04-02 10:06:36,863 - fiona.ogrext - WARNING - Skipping field bbox: invalid type 3
+2022-04-02 10:48:00,063 - fiona.ogrext - WARNING - Skipping field bbox: invalid type 3
+2022-04-02 10:48:03,962 - tornado.access - INFO - 200 GET / (127.0.0.1) 3.95ms
+2022-04-02 10:48:03,973 - tornado.access - INFO - 200 GET /static/css/bootstrap.min.css (127.0.0.1) 5.55ms
+2022-04-02 10:48:03,974 - tornado.access - INFO - 200 GET /static/js/ChartModule.js (127.0.0.1) 5.92ms
+2022-04-02 10:48:03,975 - tornado.access - INFO - 200 GET /static/js/leaflet.js (127.0.0.1) 6.87ms
+2022-04-02 10:48:03,976 - tornado.access - INFO - 200 GET /static/js/Chart.min.js (127.0.0.1) 7.88ms
+2022-04-02 10:48:04,008 - tornado.access - INFO - 101 GET /ws (127.0.0.1) 0.55ms
+2022-04-02 10:48:04,205 - fiona.ogrext - WARNING - Skipping field bbox: invalid type 3
+2022-04-02 10:49:58,463 - fiona.ogrext - WARNING - Skipping field bbox: invalid type 3
+2022-04-02 10:50:02,382 - tornado.access - INFO - 200 GET / (127.0.0.1) 3.73ms
+2022-04-02 10:50:02,418 - tornado.access - INFO - 101 GET /ws (127.0.0.1) 0.64ms
+2022-04-02 10:50:02,643 - fiona.ogrext - WARNING - Skipping field bbox: invalid type 3
+2022-04-02 10:52:48,259 - fiona.ogrext - WARNING - Skipping field bbox: invalid type 3
+2022-04-02 10:52:52,168 - tornado.access - INFO - 200 GET / (127.0.0.1) 3.83ms
+2022-04-02 10:52:52,199 - tornado.access - INFO - 101 GET /ws (127.0.0.1) 0.52ms
+2022-04-02 10:52:52,392 - fiona.ogrext - WARNING - Skipping field bbox: invalid type 3

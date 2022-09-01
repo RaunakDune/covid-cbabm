@@ -1,0 +1,6 @@
+﻿start,home,work,hospital,market,school
+home,0.9,0,0,0.7,0.6
+work,0,0,0,0,0
+hospital,0,0,0,0,0
+market,0.9,0,0,0.1,0
+school,0.5,0,0,0.5,0.1

@@ -1,0 +1,24 @@
+number of days = 30
+population = 10000
+pois = 1000
+weather = 1
+policy = 2
+distance = 1000
+initial infected = 0.1
+initial vaccinated = 0.6
+
+dweather = 1
+
+protection bound = 0.5
+resistance bound = 0.1 - recover, 0.1- dead
+
+h/p = 0.05
+death_risk = 0.000015# deathrate in deathrate-by-modzcta # by july
+infection risk = 0.0015 #case rate by modctaz# by first week
+exposed rate = positive test rate = 0.036 #percentPositive by modzcta #testrate by  modzcta. /100000# by first week
+hospital rate = 0.000158 # hosprate by modzata, july
+# contant= 0.000408
+death 
+
+
+pip install xlrd==1.2.0

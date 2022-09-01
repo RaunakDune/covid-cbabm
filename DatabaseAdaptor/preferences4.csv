@@ -1,0 +1,25 @@
+,task,min_start_time,max_start_time,min_duration,max_duration,profession,min_prob,max_prob
+0,stay home,5,6,6,6,Student,0.5,0.9805350306249759
+1,stay home,11,11,5,6,Student,0.9,0.9
+2,go to market,16,16,1,1,Student,0.5738216705375584,0.5738216705375584
+3,dating,17,18,4,4,Student,0.7,0.7314700352712179
+4,go home,21,21,2,2,Student,0.847611749290802,0.847611749290802
+5,stay home,23,25,6,7,Student,0.9,0.9
+6,stay home,3,3,8,8,Employed,0.5,0.5
+7,go to work,11,11,1,1,Employed,0.6311450050737221,0.6311450050737221
+8,work,12,13,7,8,Employed,0.9,0.9
+9,go home,19,19,1,1,Employed,0.49386886543851183,0.49386886543851183
+10,stay home,20,21,4,5,Employed,0.5,0.8281412840348376
+11,go to work,0,0,2,2,Employed,0.46482106771828685,0.5388340389238704
+12,work,2,2,1,6,Employed,0.9,0.9
+13,stay home,4,6,7,8,Unemployed,0.5,0.5
+14,stay home,11,12,8,9,Unemployed,0.9,0.9
+15,go to market,19,19,1,1,Unemployed,0.4655723008051189,0.4655723008051189
+16,relaxation,20,20,3,4,Unemployed,0.7,0.8873371931200301
+17,go home,23,23,1,1,Unemployed,0.3318292498498721,0.3318292498498721
+18,stay home,0,0,4,7,Unemployed,0.8,0.853838725407909
+19,stay home,10,10,6,6,Healthcare,0.5,0.6208245267746995
+20,go to Hospital,16,16,1,1,Healthcare,0.08854853563044456,0.5617194114904837
+21,treat patients,17,17,7,8,Healthcare,0.9,0.9
+22,go home,0,0,2,2,Healthcare,0.4644534500517806,0.4644534500517806
+23,stay home,2,2,8,8,Healthcare,0.5,0.8483676849213125
